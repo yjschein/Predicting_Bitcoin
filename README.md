@@ -1,6 +1,7 @@
 # Predicting the Price of Bitcoin
 
 ## Project Overview
+The goal of this project is to predict the price of bitcoin. 
 
 ## Data Source
 
